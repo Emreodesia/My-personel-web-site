@@ -1,0 +1,16 @@
+C:\Users\Acer\source\repos\patilaDev\patilaDev\obj\Debug\net5.0\patilaDev.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\patilaDev\patilaDev\obj\Debug\net5.0\patilaDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\patilaDev\patilaDev\obj\Debug\net5.0\patilaDev.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\patilaDev\patilaDev\obj\Debug\net5.0\patilaDev.AssemblyInfo.cs
+C:\Users\Acer\source\repos\patilaDev\patilaDev\obj\Debug\net5.0\patilaDev.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\patilaDev\patilaDev\bin\Debug\net5.0\patilaDev.exe
+C:\Users\Acer\source\repos\patilaDev\patilaDev\bin\Debug\net5.0\patilaDev.deps.json
+C:\Users\Acer\source\repos\patilaDev\patilaDev\bin\Debug\net5.0\patilaDev.runtimeconfig.json
+C:\Users\Acer\source\repos\patilaDev\patilaDev\bin\Debug\net5.0\patilaDev.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\patilaDev\patilaDev\bin\Debug\net5.0\patilaDev.dll
+C:\Users\Acer\source\repos\patilaDev\patilaDev\bin\Debug\net5.0\patilaDev.pdb
+C:\Users\Acer\source\repos\patilaDev\patilaDev\obj\Debug\net5.0\patilaDev.dll
+C:\Users\Acer\source\repos\patilaDev\patilaDev\obj\Debug\net5.0\refint\patilaDev.dll
+C:\Users\Acer\source\repos\patilaDev\patilaDev\obj\Debug\net5.0\patilaDev.pdb
+C:\Users\Acer\source\repos\patilaDev\patilaDev\obj\Debug\net5.0\patilaDev.genruntimeconfig.cache
+C:\Users\Acer\source\repos\patilaDev\patilaDev\obj\Debug\net5.0\ref\patilaDev.dll
