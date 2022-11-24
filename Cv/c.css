@@ -1,0 +1,47 @@
+body{
+    background-image: url(a.jpg);
+    background-color: rgb(12, 231, 231);
+    border: 10px;
+     
+     
+    }
+
+    
+
+
+h1{
+    box-sizing: border-box;
+    background-color: blanchedalmond;
+    box-shadow: 200px;
+    border-style: solid;
+    
+
+}
+
+h2{
+    box-sizing: border-box;
+    background-color: blanchedalmond;
+    box-shadow: 200px;
+    border-style:double;
+}
+nav{
+    
+    box-sizing: border-box;
+    border-top: aqua;
+    box-shadow: 100px;
+    
+    
+    
+     
+}
+
+p{
+    color: rgb(0, 0, 0);
+}
+ul{
+    background-color: blanchedalmond;
+    box-shadow: 200px;
+    border-style: solid;
+
+}
+
