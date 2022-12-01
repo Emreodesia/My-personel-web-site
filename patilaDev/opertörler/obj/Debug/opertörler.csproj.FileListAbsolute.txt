@@ -1,8 +1,0 @@
-C:\Users\Acer\source\repos\opertörler\opertörler\bin\Debug\opertörler.exe.config
-C:\Users\Acer\source\repos\opertörler\opertörler\bin\Debug\opertörler.exe
-C:\Users\Acer\source\repos\opertörler\opertörler\bin\Debug\opertörler.pdb
-C:\Users\Acer\source\repos\opertörler\opertörler\obj\Debug\opertörler.csproj.AssemblyReference.cache
-C:\Users\Acer\source\repos\opertörler\opertörler\obj\Debug\opertörler.csproj.SuggestedBindingRedirects.cache
-C:\Users\Acer\source\repos\opertörler\opertörler\obj\Debug\opertörler.csproj.CoreCompileInputs.cache
-C:\Users\Acer\source\repos\opertörler\opertörler\obj\Debug\opertörler.exe
-C:\Users\Acer\source\repos\opertörler\opertörler\obj\Debug\opertörler.pdb
